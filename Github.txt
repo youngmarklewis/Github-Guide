@@ -8,3 +8,4 @@ Make changes to the file, then add a summary of the changes in the commit change
 Commit changes
 Select the edit pencil icon once again and make further edits
 Commit changes once again
+Select the 'History' button. This displays all the changes made above. Clicking on the change highlights that change on the original document
