@@ -3,4 +3,5 @@ Next, select 'New file' to create a new file. In this example we are using the .
 Add the content in the '<> Code' body
 Select 'Commit directly to the master branch' radio button
 Then select 'Commit new file' (save) in other words change the file and make a commit
-
+To edit the file select the .txt file and then the edit pencil icon
+Make changes to the file, then add a summary of the changes in the commit changes text box
