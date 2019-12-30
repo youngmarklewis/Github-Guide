@@ -14,3 +14,4 @@ Branching
 From the 'Branch: master' dropdown enter the name of a new branch and then hit 'Create branch: *****'
 The Branch will now refer to the new branch created, not 'master'
 Edit the .txt file (in the new branch) and commit the changes directly to that branch
+*Alternative branch test*
