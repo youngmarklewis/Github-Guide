@@ -20,3 +20,4 @@ This option enables the changes that have been made in the alternative branch to
 To do this select 'Merge pull request' then 'Confirm merge'
 
 Make changes on multiple branches
+You can compare and pull on multiple branches so for example make changes on alternative branch 2 and on the master branch
