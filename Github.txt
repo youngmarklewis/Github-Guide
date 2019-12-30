@@ -5,3 +5,6 @@ Select 'Commit directly to the master branch' radio button
 Then select 'Commit new file' (save) in other words change the file and make a commit
 To edit the file select the .txt file and then the edit pencil icon
 Make changes to the file, then add a summary of the changes in the commit changes text box
+Commit changes
+Select the edit pencil icon once again and make further edits
+Commit changes once again
