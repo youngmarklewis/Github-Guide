@@ -19,4 +19,6 @@ Compare & pull request
 This option enables the changes that have been made in the alternative branch to be pulled back into the master, effectively making the alternative branch redundant. In other words take changes from the alternative branch and 'pull' them into master
 To do this select 'Merge pull request' then 'Confirm merge'
 
-Make changes on multiple branches (master and altervative branch 2)
+Make changes on multiple branches
+You can compare and pull on multiple branches so for example make changes on alternative branch 2 and on the master branch
+Select 'Merge pull request' then 'Confirm merge'
