@@ -1,0 +1,6 @@
+Create a 'New repository' (Repo) and make this public or private and tick the box to add a readme file. Give it a description.
+Next, select 'New file' to create a new file. In this example we are using the .txt extension
+Add the content in the '<> Code' body
+Select 'Commit directly to the master branch' radio button
+Then select 'Commit new file' (save) in other words change the file and make a commit
+
