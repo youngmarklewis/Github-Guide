@@ -31,3 +31,9 @@ Then to create a pull request navigate to username / [owners repository name] an
 Add comments to outline what changes have been made and confirm 'create pull request'. The user must now wait until the owner accepts the changes you have made!
 If someone sends you a pull request this will appear under your account in the navigation bar under 'Pull requests'
 The owner can check under 'Files changed' to see details of the changes and review them before accepting
+
+Referring to Issues logged in Github
+You can log an issue in Github and refer to that issue when commiting changes to repository.
+Select 'Issues' in the navigation bar and then 'New issue' Enter Title and comment and 'Submit new issue'
+Issue is now highlighted in the navigation bar 'Issues 1'
+Refer to that issue in the commit notes by using #3 (the number of the issue)
