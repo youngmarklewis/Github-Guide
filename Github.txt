@@ -22,3 +22,7 @@ To do this select 'Merge pull request' then 'Confirm merge'
 Make changes on multiple branches
 You can compare and pull on multiple branches so for example make changes on alternative branch 2 and on the master branch
 Select 'Merge pull request' then 'Confirm merge'
+
+Forks and Pull Requests
+To fork a repository navigate to the file you want to fork and hover over the edit button 'Fork this project and edit the file'
+The forked repository will now appear in your repository under your own username / [owners repository name]
