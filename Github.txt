@@ -37,3 +37,5 @@ You can log an issue in Github and refer to that issue when commiting changes to
 Select 'Issues' in the navigation bar and then 'New issue' Enter Title and comment and 'Submit new issue'
 Issue is now highlighted in the navigation bar 'Issues 1'
 Refer to that issue in the commit notes by using #3 (the number of the issue)
+Comments are now added to the issue 'youngmarklewis added a commit that referenced this issue'
+
