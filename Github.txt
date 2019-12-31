@@ -41,3 +41,4 @@ Comments are now added to the issue 'youngmarklewis added a commit that referenc
 
 Closing an issue after fixing
 Simply refer to the in the commit notes 'fixes #4' Github automatically recognises the word fixes
+Check the comments on the issue 'youngmarklewis closed this in 939539c now' Issue is Closed
