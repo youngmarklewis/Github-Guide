@@ -42,3 +42,5 @@ Comments are now added to the issue 'youngmarklewis added a commit that referenc
 Closing an issue after fixing
 Simply refer to the in the commit notes 'fixes #4' Github automatically recognises the word fixes
 Check the comments on the issue 'youngmarklewis closed this in 939539c now' Issue is Closed
+You can refer to a commit directly in an issue by copying the hashcode from the comment history - copy the full hashcode e.g. 25860915386e7c62c56e34ae2de85419feea936c#diff-e5580654ef6fa921a50ae572aefd2845
+Select 'Issues' in the navigation bar and then 'New issue' Enter Title and comment and paste the full hashcode into the comments 'Submit new issue'
