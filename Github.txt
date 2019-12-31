@@ -39,3 +39,5 @@ Issue is now highlighted in the navigation bar 'Issues 1'
 Refer to that issue in the commit notes by using #3 (the number of the issue)
 Comments are now added to the issue 'youngmarklewis added a commit that referenced this issue'
 
+Closing an issue after fixing
+Simply refer to the in the commit notes 'fixes #4' Github automatically recognises the word fixes
