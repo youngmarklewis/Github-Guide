@@ -25,4 +25,9 @@ Select 'Merge pull request' then 'Confirm merge'
 
 Forks and Pull Requests
 To fork a repository navigate to the file you want to fork and hover over the edit button 'Fork this project and edit the file'
-The forked repository will now appear in your repository under your own username / [owners repository name]
+This creates a copy of the repository and will now appear in your own repository under your username / [owners repository name]
+Make changes to any of the files within the repository 
+Then to create a pull request navigate to username / [owners repository name] and select 'Create a pull request'
+Add comments to outline what changes have been made and confirm 'create pull request'. The user must now wait until the owner accepts the changes you have made!
+If someone sends you a pull request this will appear under your account in the navigation bar under 'Pull requests'
+The owner can check under 'Files changed' to see details of the changes and review them before accepting
