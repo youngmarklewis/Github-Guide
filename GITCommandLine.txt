@@ -16,3 +16,5 @@ up and down arrow (allows user to revisit commands previously used)
 cd [space] (allows user to physically drag in a folder location from the finder window)
 ls -all (lists contents of the current directory, the argument -all presents more detailed information)
 ls -all (also shows hidden files)
+
+Cloning Repo and Push/Pull
