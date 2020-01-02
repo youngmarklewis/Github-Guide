@@ -18,3 +18,16 @@ ls -all (lists contents of the current directory, the argument -all presents mor
 ls -all (also shows hidden files)
 
 Cloning Repo and Push/Pull
+
+Create a new repository (you can also do this for an existing repository)
+Once created copy the url and add .git e.g. https://github.com/youngmarklewis/GIT-Push-Pull.git
+cd to a folder of your choosing e.g. /Users/Young/Documents/JavaScript
+In the terminal window type 'git clone https://github.com/youngmarklewis/GIT-Push-Pull.git'
+Confirmation message is recieved: 
+'Cloning into 'GIT-Push-Pull'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Compressing objects: 100% (2/2), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (3/3), done.'
+Check the folder location
