@@ -2,3 +2,7 @@ GIT
 git --version (check GIT version
 git clone https://github.com/youngmarklewis/GIT-Push-Pull.git (clone / pull a repository)
 git status /Users/Young/Documents/JavaScript/GIT-Push-Pull (advises any changes that have been made in that folder)
+git commit (needs an argument: commit -a (commit all) : commit -a -m (to commit all and add a message)
+e.g. commit -a -m "Adding a change"
+git log (shows all commits) git log -2 (shows the last two commits)
+Type : shift + q To exit VIM (VIM is a terminal based text editor)
