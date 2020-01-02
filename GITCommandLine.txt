@@ -19,7 +19,7 @@ ls -all (lists contents of the current directory, the argument -all presents mor
 ls -all (also shows hidden files)
 
 
-Cloning Repo and Push/Pull
+Cloning Repo
 
 Create a new repository (you can also do this for an existing repository)
 Once created copy the url and add .git e.g. https://github.com/youngmarklewis/GIT-Push-Pull.git
@@ -43,3 +43,10 @@ Terminal confirms that the file has been changed 'modified: README.md'
 Next commit all the changes by running the command: git commit -a (commit all -a argument -a)
 Or with a message: git commit -a -m "Adding a change" (commit all with the arguments -a -m)
 You can view the change log by entering git: log (Exit the log by typing ':' then shift + q
+
+Push and Pull
+
+Pushing is the act of sending to Github
+Pulling is the act of receiving from Github. When would you want to pull from Github? This could occur if someone else was working on your repository and they push some changes to Github (so you don't have those changes on your laptop) Then you would want to pull from Github to your local PC to get those changes
+
+
