@@ -6,3 +6,5 @@ git commit (needs an argument: commit -a (commit all) : commit -a -m (to commit 
 e.g. commit -a -m "Adding a change"
 git log (shows all commits) git log -2 (shows the last two commits)
 Type : shift + q To exit VIM (VIM is a terminal based text editor)
+git remote
+git remote -v
