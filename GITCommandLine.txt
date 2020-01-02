@@ -1,6 +1,7 @@
 Intro to the Command Line - GIT 
 https://www.youtube.com/watch?v=oK8EvVeVltE
 
+
 Popular commands:
 clear (clears the current screen)
 cd (change directory)
@@ -17,6 +18,7 @@ cd [space] (allows user to physically drag in a folder location from the finder 
 ls -all (lists contents of the current directory, the argument -all presents more detailed information)
 ls -all (also shows hidden files)
 
+
 Cloning Repo and Push/Pull
 
 Create a new repository (you can also do this for an existing repository)
@@ -31,3 +33,10 @@ remote: Compressing objects: 100% (2/2), done.
 remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
 Unpacking objects: 100% (3/3), done.'
 Check the folder location
+
+Editing the file
+
+Drag the containing folder to VS Code icon in the taskbar. This will open VS Code
+Make any changes to the Readme file and hit save
+Back in the terminal navigate to the directory above and type: git status /Users/Young/Documents/JavaScript/GIT-Push-Pull
+Terminal confirms that the file has been changed 'modified: README.md'
