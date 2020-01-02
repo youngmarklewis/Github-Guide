@@ -40,3 +40,6 @@ Drag the containing folder to VS Code icon in the taskbar. This will open VS Cod
 Make any changes to the Readme file and hit save
 Back in the terminal navigate to the directory above and type: git status /Users/Young/Documents/JavaScript/GIT-Push-Pull
 Terminal confirms that the file has been changed 'modified: README.md'
+Next commit all the changes by running the command: git commit -a (commit all -a argument -a)
+Or with a message: git commit -a -m "Adding a change" (commit all with the arguments -a -m)
+You can view the change log by entering git: log (Exit the log by typing ':' then shift + q
