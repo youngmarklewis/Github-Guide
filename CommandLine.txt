@@ -1,3 +1,4 @@
 GIT
 git --version (check GIT version
 git clone https://github.com/youngmarklewis/GIT-Push-Pull.git (clone / pull a repository)
+git status /Users/Young/Documents/JavaScript/GIT-Push-Pull (advises any changes that have been made in that folder)
