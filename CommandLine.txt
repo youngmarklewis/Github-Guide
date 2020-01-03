@@ -6,5 +6,6 @@ git commit (needs an argument: commit -a (commit all) : commit -a -m (to commit 
 e.g. commit -a -m "Adding a change"
 git log (shows all commits) git log -2 (shows the last two commits)
 Type : shift + q To exit VIM (VIM is a terminal based text editor)
-git remote
-git remote -v
+git remote (lists all the remotes associated with your project, in this example it's called 'origin')
+git remote -v (shows the url of origin https://github.com/youngmarklewis/GIT-Push-Pull.git (fetch) + (push)
+git push origin master (pushes changes to the master branch)
