@@ -48,5 +48,9 @@ Push and Pull
 
 Pushing is the act of sending to Github
 Pulling is the act of receiving from Github. When would you want to pull from Github? This could occur if someone else was working on your repository and they push some changes to Github (so you don't have those changes on your laptop) Then you would want to pull from Github to your local PC to get those changes
-
+Remote - Is a duplicate instance of your repository that lives somewhere on the Github remote server
+Typing: 'git remote' will list all the remotes associated with your project e.g. origin 
+Typing: 'git remote -v' shows the url of origin
+Typing: 'git push origin master' will prompt the user for their username and password
+Changes are then pushed to the master branch of the repository 
 
