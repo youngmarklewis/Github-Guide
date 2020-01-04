@@ -14,3 +14,5 @@ git commit -a (this adds and commits all files in one fell swoop. Add everything
 git add examplefile.txt (adds the specific file to the staging area)
 git commit -m "adding a new file" (commits the specific change plus a message)
 git add . (add anything that Git detects as a change or a new file)
+git remote add origin https://github.com/youngmarklewis/GIT-init.git
+git pull origin master (pulls changes from Github to the users pc)
