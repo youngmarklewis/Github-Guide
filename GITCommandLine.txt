@@ -54,3 +54,23 @@ Typing: 'git remote -v' shows the url of origin
 Typing: 'git push origin master' will prompt the user for their username and password
 Changes are then pushed to the master branch of the repository 
 
+Git init and git add
+
+This is the process of uploading code files from your own laptop to Github to make a repository
+In terminal go to the folder GIT-init (example folder) type: 'git status' 
+The user will be told that GIT-init is not a git repository
+Type: 'git init'
+The empty git repository GIT-init is now initialised, check this by running 'git status'
+Files in GIT-init are displayed but these have not been committed. In Github committing and saving a file are the same thing, when working locally however these are seperate steps:
+1. Save
+2. Add (places files in the 'staging area')
+3. Commit (only commits changes that are in the 'staging area')
+
+Type: 'git add nameoffile.txt'
+Type: 'git status' Observe that the file now appears under 'changes to be committed' 
+Type: 'git commit -m "adding a new file"'
+Type: 'git add .' to add anything (all) that Git detects as a change or a new file to the staging area
+Follow this with 'git commit -m "adding a new file"' to commit changes
+
+The user now needs to go to Github.com to add the remote by creating the repository
+
