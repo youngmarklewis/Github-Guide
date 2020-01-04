@@ -73,4 +73,19 @@ Type: 'git add .' to add anything (all) that Git detects as a change or a new fi
 Follow this with 'git commit -m "adding a new file"' to commit changes
 
 The user now needs to go to Github.com to add the remote by creating the repository
+In Github add a new repository (without a readme file)
+Instructions are presented to the user:
+
+[…or create a new repository on the command line
+echo "# GIT-init" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/youngmarklewis/GIT-init.git
+git push -u origin master]
+
+Type: 'git remote add origin' (This doesn't have to be origin but that's the convention) and add the url presented on Github which is also above. So: 'git remote add origin https://github.com/youngmarklewis/GIT-init.git'
+Type: 'git remote' origin is displayed
+Type: 'git remote -v' Shows the url of origin
+Type: 'git push origin master' which pushes all committed files and changes to Github
 
