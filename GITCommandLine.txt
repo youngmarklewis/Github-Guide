@@ -88,4 +88,8 @@ Type: 'git remote add origin' (This doesn't have to be origin but that's the con
 Type: 'git remote' origin is displayed
 Type: 'git remote -v' Shows the url of origin
 Type: 'git push origin master' which pushes all committed files and changes to Github
+Make changes to file in Github and save the changes
+Back in the terminal type: 'git pull origin master'
+Check the file to observe that the changes have been pulled across
+
 
