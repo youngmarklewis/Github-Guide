@@ -8,5 +8,20 @@ Now go to settings and scroll down to Github pages and your site is published to
 https://youngmarklewis.github.io/TestWebsite/
 You can change this url to a custom url - search the internet
 
+Adding a file to the webpage:
+
+'Create new file' a text file e.g. testfile.txt
+Add text for the webpage
+Add 'testfile.txt' to the url in the browser https://youngmarklewis.github.io/TestWebsite/testfile.txt
+Hit enter and the page (page is a plain text file) is displayed on the web!
+
+To make a HTML testfile:
+
+'Create new file' a text file index.html
+Add some HTML content
+In the browswer strip away testfile.txt to leave https://youngmarklewis.github.io/TestWebsite/ 
+Hit enter
+HTML page is displayed on the internet!
+
 
 
