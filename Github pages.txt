@@ -23,5 +23,10 @@ In the browswer strip away testfile.txt to leave https://youngmarklewis.github.i
 Hit enter
 HTML page is displayed on the internet!
 
-
-
+To clone to a local pc using command line:
+Navigate to the correct directory - /Users/Young/Documents/JavaScript
+Double check using pwd
+Type 'git clone https://github.com/youngmarklewis/TestWebsite.git'
+Type open . to open in Finder and see that the TestWebsite repository has been cloned
+Back in terminal type 'git status' Observe that the branch is gh-pages
+So.. any commands have to use gh-pages e.g. 'git pull origin gh-pages'
