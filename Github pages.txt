@@ -1,1 +1,12 @@
+Using GitHub pages
+
+Create a new repository and name it. Add a description, amke it public and initialize with a readme.
+Once created select the master branch and change this by typing gh-pages
+Branch is now gh-pages rather than master but to make this permament select settings > branches. Change the default branch to gh-pages
+Now click on 'branches' in the header and hot the trash can next to the master branch to completeley delete from this repository
+Now go to settings and scroll down to Github pages and your site is published to that url:
+https://youngmarklewis.github.io/TestWebsite/
+You can change this url to a custom url - search the internet
+
+
 
